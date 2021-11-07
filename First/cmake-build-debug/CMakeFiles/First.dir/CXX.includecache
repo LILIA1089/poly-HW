@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lilne/Desktop/Proektiki/HW/First/main.cpp
+iostream
+-
+vector
+-
+utility
+-
+fstream
+-
+cmath
+-
+

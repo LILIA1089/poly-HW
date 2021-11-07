@@ -1,0 +1,3 @@
+C:/Users/lilne/Desktop/Proektiki/HW/First/cmake-build-debug/CMakeFiles/First.dir
+C:/Users/lilne/Desktop/Proektiki/HW/First/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lilne/Desktop/Proektiki/HW/First/cmake-build-debug/CMakeFiles/rebuild_cache.dir
