@@ -111,6 +111,7 @@ Dots get_result(Dots mat){
     }
     result.push_back(left_result);
     result.push_back(right_result);
+    return 0;
 }
 
 
