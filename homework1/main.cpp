@@ -118,7 +118,7 @@ Dots get_result(Dots mat){
 int main() {
    // std::cout << "Hello, World!" << std::endl;
 
-    Dots mat = get_dots("input.txt");
+    Dots mat = get_dots("in.txt");
 
     Dots result = get_result(mat);
 
